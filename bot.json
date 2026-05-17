@@ -1,3 +1,4 @@
+"id":"botjsonfix"
 {
   "token": "8338193080:AAGdtsa917H5J-LNI-dsyKg4eLJxod4gX8s",
   "username": "@JACK_SHOP_BOT",
@@ -12,5 +13,6 @@
     "cod",
     "wallet"
   ],
-  "language": "Hinglish"
+  "language": "Hinglish",
+  "bb_sync_version": "1.0"
 }
