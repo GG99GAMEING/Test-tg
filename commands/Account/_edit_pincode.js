@@ -1,0 +1,15 @@
+/*CMD
+  command: /edit_pincode
+  help: Account setting
+  need_reply: false
+  auto_retry_time:
+  folder: Account
+<<ANSWER
+ANSWER
+<<KEYBOARD
+KEYBOARD
+  aliases: 
+CMD*/
+
+Api.sendMessage({text:"🔧 */Edit Pincode* - JACK SHOP active.", parse_mode:"Markdown"});
+Api.sendMessage({text:"📋 LOG: /edit_pincode | User: " + user.telegramid, chat_id:"@JACK_SHOP_LOGS"});

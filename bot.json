@@ -1,0 +1,16 @@
+{
+  "token": "8338193080:AAGdtsa917H5J-LNI-dsyKg4eLJxod4gX8s",
+  "username": "@JACK_SHOP_BOT",
+  "admin_id": 6054420463,
+  "name": "JACK SHOP BOT",
+  "description": "Ultimate Indian E-Commerce Telegram Bot",
+  "currency": "INR",
+  "log_channel": "@JACK_SHOP_LOGS",
+  "payment_methods": [
+    "razorpay",
+    "upi",
+    "cod",
+    "wallet"
+  ],
+  "language": "Hinglish"
+}
